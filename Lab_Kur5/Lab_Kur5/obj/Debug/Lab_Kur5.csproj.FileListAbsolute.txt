@@ -1,0 +1,5 @@
+D:\_Теория алгоритмов\Students\Lab_Kur5\Lab_Kur5\bin\Debug\Lab_Kur5.exe.config
+D:\_Теория алгоритмов\Students\Lab_Kur5\Lab_Kur5\bin\Debug\Lab_Kur5.exe
+D:\_Теория алгоритмов\Students\Lab_Kur5\Lab_Kur5\bin\Debug\Lab_Kur5.pdb
+D:\_Теория алгоритмов\Students\Lab_Kur5\Lab_Kur5\obj\Debug\Lab_Kur5.exe
+D:\_Теория алгоритмов\Students\Lab_Kur5\Lab_Kur5\obj\Debug\Lab_Kur5.pdb
